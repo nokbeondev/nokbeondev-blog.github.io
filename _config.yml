@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Nokbeondev Story
-url: https://nokbeondev-blog.github.io
+title: "Nokbeondev Story"
+url: "https://nokbeondev-blog.github.io"
 # Your name to show in the footer
-author: Nokbeondev
+author: "Nokbeondev"
 
 ###############################################
 # --- List of links in the navigation bar --- #
